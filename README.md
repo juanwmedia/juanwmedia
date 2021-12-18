@@ -10,23 +10,8 @@ Actualmente estoy centrado en desarrollar mi plataforma: [**Escuela Vue**](https
 También me encaargo de llevar el grupo de [Vue.js en Valencia](https://vuejsvalencia.com/).
 
 Si quieres contactar conmigo, te sugiero:
-- 💻 Mi [página Web](https://wmedia.es/).
-- 📹 Mi canal de [YouTube](https://www.youtube.com/juanwmedia?sub_confirmation=1).
-- 🌄 Mi perfil de [Instagram](https://www.instagram.com/juanwmedia/).
-- 🐦 Mi perfil de [Twitter](https://twitter.com/juanwmedia).
+- 💻 Mi [página Web](https://wmedia.es/)
+- 📹 Mi canal de [YouTube](https://www.youtube.com/juanwmedia?sub_confirmation=1)
+- 🌄 Mi perfil de [Instagram](https://www.instagram.com/juanwmedia/)
+- 🐦 Mi perfil de [Twitter](https://twitter.com/juanwmedia)
 - 🎓 Mi perfil de [Linkedin](https://www.linkedin.com/in/juanwmedia/)
-
-<!--
-**juanwmedia/juanwmedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
