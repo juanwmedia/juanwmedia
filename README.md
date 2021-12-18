@@ -1,7 +1,7 @@
 ### Hola 👋, mi nombre es Juan Andrés Núñez
 ### Soy [especialista en JavaScript y apasionado de Vue.js](https://wmedia.es/acerca-de-juan-andres-nunez-juanwmedia/). 
 
-Me dedico a enseñar desarrollo Web moderno a cualquier persona (ya sea físicamente u online) desde una perspectiva holística: trabajando intensamente las competencias técnicas necesarias, sin olvidar las habilidades personales o soft skills.
+Me dedico a enseñar **desarrollo Web moderno** a cualquier persona (ya sea físicamente u online) desde una perspectiva holística: trabajando intensamente las competencias técnicas necesarias, sin olvidar las habilidades personales o soft skills.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanwmedia&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
