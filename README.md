@@ -1,4 +1,4 @@
-# Mi nombre es Juan Andrés Núñez 👋 y (soy especialista en JavaScript y apasionado de Vue.js)[https://wmedia.es/acerca-de-juan-andres-nunez-juanwmedia/]. 
+# Mi nombre es Juan Andrés Núñez 👋 y [soy especialista en JavaScript y apasionado de Vue.js](https://wmedia.es/acerca-de-juan-andres-nunez-juanwmedia/). 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanwmedia&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
