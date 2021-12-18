@@ -12,8 +12,9 @@ También me encaargo de llevar el grupo de [Vue.js en Valencia](https://vuejsval
 Si quieres contactar conmigo, te sugiero:
 - 💻 Mi [página Web](https://wmedia.es/).
 - 📹 Mi canal de [YouTube](https://www.youtube.com/juanwmedia?sub_confirmation=1).
-- 🌄 Mi cuenta de [Instagram](https://www.instagram.com/juanwmedia/).
-- 🐦 Mi cuenta de [Twitter](https://twitter.com/juanwmedia).
+- 🌄 Mi perfil de [Instagram](https://www.instagram.com/juanwmedia/).
+- 🐦 Mi perfil de [Twitter](https://twitter.com/juanwmedia).
+- 🎓 Mi perfil de [Linkedin](https://www.linkedin.com/in/juanwmedia/)
 
 <!--
 **juanwmedia/juanwmedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
